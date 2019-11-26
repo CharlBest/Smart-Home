@@ -79,14 +79,14 @@
 * Sliding indoor doors (pocket door)
   * auto close []()
   * object detection []()
-* Integrated auto reel extension power cord []()
+* Integrated auto reel extension power cord [Rambler Socket: Built-in Extension Cord](https://www.ippinka.com/blog/rambler-socket-built-in-extension-cord/)
 * Touch screen projector [Sony Xperia Touch](https://www.sonymobile.com/global-en/products/smart-products/xperia-touch) & [Puppy Cube](http://www.puppyrobot.com/en/puppycube)
 * Auto detect user in the room via phone, RFID chip, facial recognition, WiFi waves []()
 * Windows can become screen and show anything like a forest or space []()
 * Plant soil monitor [Plant Link](https://www.kickstarter.com/projects/1387729422/plant-link-listen-to-your-plants) & [Xiaomi Plant Monitor]()
 * Vents [KEEN home Smart Vent](https://keenhome.io/products/smart-vent)
 * Modern flushed trim finishes [Modern Trim](https://www.youtube.com/watch?v=Xtev-uJsAWM)
-* Lock (close on voice command or occupancy) []()
+* Lock (close on voice command or occupancy) [August Smart Lock](https://august.com/)
 * Aircon & heater []()
 
 ## Bathroom
@@ -139,6 +139,7 @@
 * Laundry chute to washing room [Laundry chute system](https://www.youtube.com/watch?v=3AYoJiFMfAM)
 * Laundry folding machine [FoldiMate](https://foldimate.com/)
 * Ironing machine [Effie](https://helloeffie.com/)
+* Medication Tracker [PillDrill](https://www.pilldrill.com/)
 
 ## Living Room
 * Power strip with energy monitoring [TP-Link Kasa Power Strip](https://www.kasasmart.com/us/products/smart-plugs/kasa-smart-wi-fi-power-strip-hs300)
@@ -153,12 +154,14 @@
 * Auto light up stairs when talking []()
 * Sink garbage catcher []()
 * Standing desk []()
+* Fish tank feature []()
+  * Control light, heat, pump, etc.
 
 ## Kitchen
-* Pet feeder []()
+* Pet feeder [PetSafe Smart Feed](https://store.petsafe.net/smart-feed)
 * Slow Cooker [Crock-Pot](https://www.crock-pot.ca/en_CA/slow-cookers/crock-pot-wemo-enabled-smart-slow-cooker/SCCPWM600-V1-033.html)
 * Milk dispenser [Xiaomi TDS electric water dispenser]()
-* Kettle [Xiaomi Mijia Kettle](https://xiaomi-mi.com/appliances/xiaomi-mijia-smart-temperature-control-kettle-white/)
+* Kettle [iKettle 3.0](https://www.smarter.am/)
   * detect water level []() 
   * fill given quantity [PourMi](https://www.kickstarter.com/projects/pourmi/pourmi)
   * rod in glass to hear in induction hob) [MIITO](https://www.kickstarter.com/projects/747044530/miito-the-sustainable-alternative-to-the-electric)
@@ -197,7 +200,10 @@
 * Sprinkler System []()
 * Garage door []()
 * Scale underneath gas tank []()
-* Local weather station (wind, etc) []()
+* Local weather station
+  * General purpose [Netatmo Weather station](https://www.netatmo.com/en-eu/weather/weatherstation)
+  * Rain Gauge [Netatmo Rain Gauge](https://www.netatmo.com/en-eu/weather/weatherstation/accessories#raingauge)
+  * Wind [Netatmo Anemometer](https://www.netatmo.com/en-eu/weather/weatherstation/accessories#windgauge)
 * Path way light up while walking []()
 * Vegetable garden []()
 * Subterranean subwoofer [MartinLogan Outdoor Speakers](https://www.martinlogan.com/en/category/outdoor)
@@ -208,7 +214,7 @@
 * Gym room [Tonal](https://www.tonal.com/)
 * Screwless wooden deck []()
 * Pool cover auto roller []()
-* Dog door []()
+* Pet door [PetSafe SmartDoor](https://store.intl.petsafe.net/en-ie/smartdoor-electronic-pet-door-large)
 * Underground garbage storage [Video](https://www.youtube.com/watch?v=n4dBu6fkzZM)
 * Expandable porch canopy []()
 * Pressure gun []()
