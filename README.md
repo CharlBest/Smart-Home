@@ -1,3 +1,12 @@
+# The Ultimate Smart Home
+
+## Intro
+* This list is intended to show all the ideas for a smart home.
+* It mainly consists of electrical items.
+* It assumes that there is no house size limit and money constraints.
+* Some of the items might be a bit opinionated.
+* Keep in mind I have no idea what I'm talking about.
+
 ## Considerations
 * Fade/flush into decor, unobtrusive, helpful, not noticeable, one with the architecture and design
 * Run locally not in the cloud. You own the data especially with video and audio
@@ -6,49 +15,6 @@
 * All consumables should be tracked like waste, electricity and water consumption conversely also track all generation like solar energy, wind energy and rainfall capture
 * Paperless
 * Rethink everything. Is it necessary?
-
-## Devices
-* Router [UI](https://www.ui.com/)
-* Laser measuring tool [Cubit](https://www.indiegogo.com/projects/cubit-bring-any-diy-project-to-life#/)
-* Thermostat [Hive](https://www.hivehome.com/ie/products/hive-active-hubless-heating)
-* 3D Printer [Creality CR-10S Pro](https://www.creality3d.shop/collections/cr-series/products/creality3d-cr-10s-pro-300-300-400-3d-printer)
-* Drone [DJI Mavic Air](https://www.dji.com/ie/mavic-air)
-  * use drone to fly indoor to scatter dust and then suck it up
-  * attach arm [Blue Jay](https://www.youtube.com/watch?v=YJk0a6Rh8Us)
-* Robotic arm [Meca500](https://www.mecademic.com/products/Meca500-small-robot-arm)
-* Mouse [Logitech MX Master](https://www.logitech.com/en-roeu/product/mx-master-3) & Keyboard [Drevo Calibur](https://www.drevo.net/product/keyboard/calibur)
-* Robot vacuum [Roomba series 9+](https://www.irobot.ie/roomba/s-series)
-* Mop cleaner [iRobot Braava](https://www.irobot.ie/braava)
-* Robot window cleaner [WINBOT X](https://www.ecovacs.com/uk/winbot-window-cleaning-robot/WINBOT-X)
-* Solar panel [Solar Roof](https://www.tesla.com/en_IE/solarroof)
-* Wind turbine (vertical) []()
-* Battery + inverter [Tesla Powerwall](https://www.tesla.com/en_IE/powerwall)
-* Clothes fluff remover [Xiaomi Mijia Deerma clothes multi-function trimmer]()
-* Air Pump Compressor [Xiaomi Mija Mini Inflatable Smart Tire Electric]()
-* Electric 
-  * Scooter [Mi Electric Scooter Pro](https://www.mi.com/global/mi-electric-scooter-pro)
-  * Skateboard [Boosted Boards](https://boostedboards.com/)
-  * Unicycle [Xiaomi Mijia A1 Self Balance Electric Unicycle](https://xiaomi-mi.com/electric-scooters/xiaomi-ninebot-one-a1-electric-unicycle-white/)
-* Handheld Vacuum Cleaner [Mi Handheld Vacuum Cleaner](https://www.mi.com/global/mi-handheld-vacuum-cleaner)
-* Powerbank [RAVPower](https://www.ravpower.com/products/rp-pb41-26800mah-power-bank)
-* Water bottle [H2OPal](https://www.h2opal.com/) & [Noerden LIZ](https://www.noerden.eu/shop/product/liz/)
-* Headphones [Sony WH-1000XM3](https://www.sony.ie/electronics/headband-headphones/wh-1000xm3)
-* Earbuds [Google Pixel Buds](https://store.google.com/product/pixel_buds)
-* Smoke & CO2 monitor []()
-* Portable air quality monitor [Flow](https://plumelabs.com/en/flow-2/store/)
-* Brain interface to control some things [Muse](https://choosemuse.com/)
-* Dog GPS tracking collar []()
-* Heated 
-  * gloves []()
-  * jacket []()
-  * scarf [Xiaomi Mijia Graphene Heating Scarf]()
-  * shoe soles [MiMeng Heated Insoles](http://www.mimengsmart.com/)
-* Watch [Fossil Gen 5](https://www.fossil.com/us/en/wearable-technology/smartwatches/gen5-learn-more.html)
-* VR headset [Oculus Quest](https://www.oculus.com/quest/)
-* Glasses [North](https://www.bynorth.com/)
-* Laptops [Razer Blade](https://www.razer.com/eu-en/gaming-laptops/razer-blade)
-* Paint Sprayer [Wagner FLEXIO 5000 Paint Sprayer](https://www.wagnerspraytech.com/products/paint-sprayers/flexio-5000-paint-sprayer/)
-* Electric lighter [Flexible Electric USB Lighter](https://www.google.com/search?q=flexible+electric+usb+lighter)
 
 ## All rooms
 * Light switch and dimmable [Shelly Dimmer](https://shop.shelly.cloud/shelly-dimmer-wifi-smart-home-automation)
@@ -87,7 +53,8 @@
 * Vents [KEEN home Smart Vent](https://keenhome.io/products/smart-vent)
 * Modern flushed trim finishes [Modern Trim](https://www.youtube.com/watch?v=Xtev-uJsAWM)
 * Lock (close on voice command or occupancy) [August Smart Lock](https://august.com/)
-* Aircon & heater []()
+* Air Conditioner []()
+* Heater []()
 
 ## Bathroom
 * Beard shaver []()
@@ -116,6 +83,7 @@
   * cleans itself [Spinx](https://www.kickstarter.com/projects/1209829383/spinx-worlds-first-toilet-cleaning-robot)
   * soft close
   * foot warmer
+  * Toilet Paper Holder [Toilet Paper Holder](https://www.kickstarter.com/projects/294027997/polarity-gear-toilet-paper-holder/?utm_source=dudeiwantthat.com&utm_medium=referral)
 * Bin that extract waste to the outside. Also detect item being thrown away to place on shopping list. Motorized lid open via gesture []()
 * Electric Toothbrush [Xiaomi Mijia Sonic Electric Toothbrush]()
 * Flosser [Philips AirFloss](https://www.philips.ie/c-m-pe/philips-sonicare-airfloss)
@@ -140,13 +108,19 @@
 * Laundry folding machine [FoldiMate](https://foldimate.com/)
 * Ironing machine [Effie](https://helloeffie.com/)
 * Medication Tracker [PillDrill](https://www.pilldrill.com/)
+* Clothes fluff remover [Xiaomi Mijia Deerma clothes multi-function trimmer]()
+* Heated 
+  * gloves []()
+  * jacket []()
+  * scarf [Xiaomi Mijia Graphene Heating Scarf]()
+  * shoe soles [MiMeng Heated Insoles](http://www.mimengsmart.com/)
 
 ## Living Room
 * Power strip with energy monitoring [TP-Link Kasa Power Strip](https://www.kasasmart.com/us/products/smart-plugs/kasa-smart-wi-fi-power-strip-hs300)
 * Projector []()
 * Surround Sound []()
 * Chromecast []()
-* TV (borderless & wallpaper & rollable maybe) & remote []()
+* TV (borderless, wallpaper, rollable maybe) & remote []()
 * Receipt capture tracker [Fujitsu](https://www.scanners.ie/products/fujitsu-scansnap-s1300i)
 * Watch []()
 * Massage/recliner []()
@@ -156,9 +130,34 @@
 * Standing desk []()
 * Fish tank feature []()
   * Control light, heat, pump, etc.
+* Bean bag [Moon Pod](https://www.moonpod.co/products/moon-pod)
+* Hidden rooms
+* Safe [iKeyp](https://www.ikeyp.com/)
+
+## Study
+* Router [UI](https://www.ui.com/)
+* 3D Printer [Creality CR-10S Pro](https://www.creality3d.shop/collections/cr-series/products/creality3d-cr-10s-pro-300-300-400-3d-printer)
+* Drone [DJI Mavic Air](https://www.dji.com/ie/mavic-air)
+  * use drone to fly indoor to scatter dust and then suck it up [Aire](https://www.kickstarter.com/projects/1042731515/aire-a-self-flying-robotic-assistant-for-the-home)
+  * attach arm [Blue Jay](https://www.youtube.com/watch?v=YJk0a6Rh8Us)
+* Robotic arm [Meca500](https://www.mecademic.com/products/Meca500-small-robot-arm)
+* Mouse [Logitech MX Master](https://www.logitech.com/en-roeu/product/mx-master-3)
+* Keyboard [Drevo Calibur](https://www.drevo.net/product/keyboard/calibur)
+* Powerbank [RAVPower](https://www.ravpower.com/products/rp-pb41-26800mah-power-bank)
+* Water bottle [H2OPal](https://www.h2opal.com/) & [Noerden LIZ](https://www.noerden.eu/shop/product/liz/)
+* Headphones [Sony WH-1000XM3](https://www.sony.ie/electronics/headband-headphones/wh-1000xm3)
+* Earbuds [Google Pixel Buds](https://store.google.com/product/pixel_buds)
+* Portable air quality monitor [Flow](https://plumelabs.com/en/flow-2/store/)
+* Brain interface to control some things [Muse](https://choosemuse.com/)
+* Watch [Fossil Gen 5](https://www.fossil.com/us/en/wearable-technology/smartwatches/gen5-learn-more.html)
+* VR headset [Oculus Quest](https://www.oculus.com/quest/)
+* Glasses [North](https://www.bynorth.com/)
+* Laptops [Razer Blade](https://www.razer.com/eu-en/gaming-laptops/razer-blade)
 
 ## Kitchen
-* Pet feeder [PetSafe Smart Feed](https://store.petsafe.net/smart-feed)
+* Thermostat [Hive](https://www.hivehome.com/ie/products/hive-active-hubless-heating)
+* Smoke & CO2 monitor []()
+* Stove [Viomi Gas Stove](https://xiaomi-mi.com/appliances/viomi-internet-smart-gas-stove-power-52/)
 * Slow Cooker [Crock-Pot](https://www.crock-pot.ca/en_CA/slow-cookers/crock-pot-wemo-enabled-smart-slow-cooker/SCCPWM600-V1-033.html)
 * Milk dispenser [Xiaomi TDS electric water dispenser]()
 * Kettle [iKettle 3.0](https://www.smarter.am/)
@@ -167,19 +166,18 @@
   * rod in glass to hear in induction hob) [MIITO](https://www.kickstarter.com/projects/747044530/miito-the-sustainable-alternative-to-the-electric)
 * Blender []()
 * Toaster []()
-* Washing machine []()
-* Dishwasher []()
-* Cutting board scale that tracks food usage and suggestions []()
+* Cutting board scale that tracks food usage and suggestions [Drop](https://getdrop.com/)
 * Fridge with water and ice dispencer []()
 * Coffee machine []()
 * Digital measuring cup [Digital Measuring Cup](https://www.google.com/search?q=digital+measuring+cup)
-* Food cycler compost bin [The FoodCycler](https://www.nofoodwaste.com/products/foodcycler-fc-30)
-* Bin extractor to outside collector []()
 * Convection oven to heat food []()
 * Faucet [Kohler Sensate Kitchen Faucet](https://www.us.kohler.com/us/smarthome/content/smarthome.htm#sensate)
   * touch
   * detachable head
   * voice command to pour exact amount.
+* Bin 
+  * Garbage chute system [Garbage chute system](https://www.youtube.com/watch?v=TYk97vWyHqc)
+  * Food cycler compost bin [The FoodCycler](https://www.nofoodwaste.com/products/foodcycler-fc-30)
 * Hide unused appliances via hidden actuator lifted compartments []()
 * Herb Garden (Aquaponics) []()
 * Extractor fan []()
@@ -193,13 +191,28 @@
 * Temperature control flask [Yunmi Electric Cup](https://ember.com/)
 * Ketchup Dispenser [Classy Ketchup](http://www.dudeiwantthat.com/gear/food-drink/classy-ketchup.asp)
 * Silicon Broom []()
-* Garbage chute system [Garbage chute system](https://www.youtube.com/watch?v=TYk97vWyHqc)
+
+## Laundry Room
+* Robot vacuum [Roomba series 9+](https://www.irobot.ie/roomba/s-series)
+* Mop cleaner [iRobot Braava](https://www.irobot.ie/braava)
+* Robot window cleaner [WINBOT X](https://www.ecovacs.com/uk/winbot-window-cleaning-robot/WINBOT-X)
+* Handheld Vacuum Cleaner [Mi Handheld Vacuum Cleaner](https://www.mi.com/global/mi-handheld-vacuum-cleaner)
+* Washing machine []()
+* Dishwasher []()
+* Pet feeder [PetSafe Smart Feed](https://store.petsafe.net/smart-feed)
+* Dog GPS tracking collar []()
+ 
+## Mini Foyer
+* Shoe rack to dry and sterilize shoes [StinkBOSS](https://stinkboss.com/)
+* Automatically close front door []()
+* Doorbell [Ring Doorbell](https://shop.ring.com/pages/doorbell-cameras)
+* Locker/box for deliveries []()
 
 ## Outdoor
 * Robotic Lawn Mower [Husqvarna](https://www.husqvarna.com/ie/products/robotic-mowers/)
 * Sprinkler System []()
 * Garage door []()
-* Scale underneath gas tank []()
+* Scale underneath gas tank [Gas Watch](https://www.gaswatch.com/)
 * Local weather station
   * General purpose [Netatmo Weather station](https://www.netatmo.com/en-eu/weather/weatherstation)
   * Rain Gauge [Netatmo Rain Gauge](https://www.netatmo.com/en-eu/weather/weatherstation/accessories#raingauge)
@@ -209,28 +222,40 @@
 * Subterranean subwoofer [MartinLogan Outdoor Speakers](https://www.martinlogan.com/en/category/outdoor)
 * Dog poop detector via image recognition []()
 * Automatic fetch player for dog []()
-* Submersible garage underground []()
-* Gutters leaf free []()
+* Submersible garage underground [Video](https://www.youtube.com/watch?v=n4dBu6fkzZM)
+* Gutter Covers [Video](https://www.youtube.com/watch?v=xn-L_O84DxI)
 * Gym room [Tonal](https://www.tonal.com/)
 * Screwless wooden deck []()
 * Pool cover auto roller []()
 * Pet door [PetSafe SmartDoor](https://store.intl.petsafe.net/en-ie/smartdoor-electronic-pet-door-large)
-* Underground garbage storage [Video](https://www.youtube.com/watch?v=n4dBu6fkzZM)
+* Underground garbage storage []()
 * Expandable porch canopy []()
-* Pressure gun []()
 * BBQ Grill cleanig robot [GrillBot](https://grillbots.com/)
- 
-## Mini Foyer
-* Shoe rack to dry and sterilize shoes [StinkBOSS](https://stinkboss.com/)
-* Automatically close front door []()
-* Doorbell with camera, etc. []()
-* Locker/box for deliveries []()
- 
+* Solar panel [Solar Roof](https://www.tesla.com/en_IE/solarroof)
+* Wind turbine (vertical) []()
+* Battery + inverter [Tesla Powerwall](https://www.tesla.com/en_IE/powerwall)
+* Ice Rink [EZ ICE](https://ezicerinks.com/)
+* Sauna []()
+* Table Tennis [Glass Table Tennis](http://www.dudeiwantthat.com/entertainment/sporting-goods/glass-top-ping-pong-table.asp)
+* Hammock [The Hammock Throne](https://www.kickstarter.com/projects/yellowleafhammocks/the-hammock-throne)
+* Solar Powered Umbrella [Cumulus Parasol](http://studiotoer.com/cumulus)
+* Inflatable Jacuzzi []()
+* BBQ [Fuego Professional](https://www.fuegoliving.com/products/fuego-f24c-carbon-propane)
+
+## Garage
+* Laser measuring tool [Cubit](https://www.indiegogo.com/projects/cubit-bring-any-diy-project-to-life#/)
+* Pressure gun [Raptor Blast Professional](https://www.pressurewashersdirect.com/Raptor-Blast-25252GA/p15536.html)
+* Paint Sprayer [Wagner FLEXIO 5000 Paint Sprayer](https://www.wagnerspraytech.com/products/paint-sprayers/flexio-5000-paint-sprayer/)
+* Air Pump Compressor [Xiaomi Mija Mini Inflatable Smart Tire Electric]()
+* Electric 
+  * Scooter [Mi Electric Scooter Pro](https://www.mi.com/global/mi-electric-scooter-pro)
+  * Skateboard [Boosted Boards](https://boostedboards.com/)
+  * Unicycle [Xiaomi Mijia A1 Self Balance Electric Unicycle](https://xiaomi-mi.com/electric-scooters/xiaomi-ninebot-one-a1-electric-unicycle-white/)
+* Electric lighter [Saberlight Flex](http://www.dudeiwantthat.com/household/tools/saberlight-flex-flexible-neck-plasma-beam-lighter.asp)
+* Vibrating Fitness Roller [Vyper 2.0](https://hyperice.com/vyper-2-0-black)
+
 ## Car
 * Car door auto open/unlock [Tesla Model 3](https://www.tesla.com/en_ie/model3)
 * Preheat when cold [Tesla Model 3](https://www.tesla.com/en_ie/model3)
 * Kar petrol tank reminder []()
 * Dash cam [Garmin Dash Cam](https://buy.garmin.com/en-IE/GB/p/661787)
- 
-## Example
-* https://www.youtube.com/watch?v=weag4TXV2Hk
