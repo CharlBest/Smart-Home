@@ -21,7 +21,7 @@
 * Colored bulbs & strips [LIFX](https://www.lifx.com/)
 * Hidden plugs [Shelly 2.5](https://shop.shelly.cloud/shelly-2.5-wifi-smart-home-automation)
 * Heated floors []()
-* Speaker []()
+* Speaker
 * Mic []()
 * Camera [Arlo](https://www.arlo.com/)
 * Wireless charging pad []()
@@ -88,7 +88,7 @@
 * Electric Toothbrush [Xiaomi Mijia Sonic Electric Toothbrush]()
 * Flosser [Philips AirFloss](https://www.philips.ie/c-m-pe/philips-sonicare-airfloss)
 * Urine analyzer in toilet [Xiaomi HiPee](https://china-gadgets.com/xiaomi-hipee-smart-health-tester/)
-* Soap & shampoo dispenser []()
+* Soap & shampoo dispenser [Xiaomi Mijia Automatic Soap Dispenser](https://www.gearbest.com/robot-vacuum-accessories/pp_009964602513.html?wid=1433363&lkid=17536087)
 * Adjust sink height based on person height []()
 * While washing hands scan for bacteria []()
 * Heated towel rail if blow dry devices isn't used []()
@@ -175,7 +175,7 @@
   * touch
   * detachable head
   * voice command to pour exact amount.
-* Bin 
+* Bin [Townew Trashcan](https://www.youtube.com/watch?v=6ikO8AJs0Pc)
   * Garbage chute system [Garbage chute system](https://www.youtube.com/watch?v=TYk97vWyHqc)
   * Food cycler compost bin [The FoodCycler](https://www.nofoodwaste.com/products/foodcycler-fc-30)
 * Hide unused appliances via hidden actuator lifted compartments []()
