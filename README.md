@@ -103,8 +103,9 @@
   * speaker
   * stats (weather, length, time, indoor temp, etc)
   * pump cold water back into geyser
-  * wind dreyer rather than towels - body dryer
+  * wind dreyer rather than towels - body dryer [Video](https://youtu.be/H1x-i3uF0R8)
   * drain hair catcher
+  * Automatic cleaner [ASC](https://youtu.be/eH6dm17NlDc)
 * Mirror with info, facial analysis, heat up to prevent fogging and light []()
 * Toilet seat []()
   * heats up (maybe when door opens)
