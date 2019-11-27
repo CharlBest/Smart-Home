@@ -78,7 +78,7 @@
   * Info
   * Facial analysis
   * Heat up to prevent fogging
-  * Light
+  * Light [Options](https://theluxauthority.com/smart-mirrors/)
 * Toilet seat [Kohler Numi 2.0 Intelligent Toilet](https://www.us.kohler.com/us/smarthome/content/smarthome.htm#numi)
   * heats up (maybe when door opens)
   * automatically opens
@@ -142,6 +142,7 @@
 * Drone [DJI Mavic Air](https://www.dji.com/ie/mavic-air)
   * use drone to fly indoor to scatter dust and then suck it up [Aire](https://www.kickstarter.com/projects/1042731515/aire-a-self-flying-robotic-assistant-for-the-home)
   * attach arm [Blue Jay](https://www.youtube.com/watch?v=YJk0a6Rh8Us)
+  * When motion is detected let drone patrol indoor and outdoor for any activity of intruders
 * Robotic arm [Meca500](https://www.mecademic.com/products/Meca500-small-robot-arm)
 * Mouse [Logitech MX Master](https://www.logitech.com/en-roeu/product/mx-master-3)
 * Keyboard [Drevo Calibur](https://www.drevo.net/product/keyboard/calibur)
@@ -179,7 +180,7 @@
   * voice command to pour exact amount.
 * Bin [Townew Trashcan](https://www.youtube.com/watch?v=6ikO8AJs0Pc)
   * Garbage chute system [Garbage chute system](https://www.youtube.com/watch?v=TYk97vWyHqc)
-  * Food cycler compost bin [The FoodCycler](https://www.nofoodwaste.com/products/foodcycler-fc-30)
+  * Food cycler compost bin [Zera The FoodCycler](https://www.indiegogo.com/projects/zera-food-recycler#/)
 * Hide unused appliances via hidden actuator lifted compartments []()
 * Herb Garden (Aquaponics) []()
 * Extractor fan []()
@@ -193,6 +194,7 @@
 * Temperature control flask [Yunmi Electric Cup](https://ember.com/)
 * Ketchup Dispenser [Classy Ketchup](http://www.dudeiwantthat.com/gear/food-drink/classy-ketchup.asp)
 * Silicon Broom []()
+* Floor vacuum sweep slot [vacpan](https://builtinvacuum.com/installguides/vacpan/)
 
 ## Laundry Room
 * Robot vacuum [Roomba series 9+](https://www.irobot.ie/roomba/s-series)
@@ -243,6 +245,7 @@
 * Solar Powered Umbrella [Cumulus Parasol](http://studiotoer.com/cumulus)
 * Inflatable Jacuzzi []()
 * BBQ [Fuego Professional](https://www.fuegoliving.com/products/fuego-f24c-carbon-propane)
+* Pool (Pump, water temp, pH, solar heating, automatic backwash, automatic refill)
 
 ## Garage
 * Laser measuring tool [Cubit](https://www.indiegogo.com/projects/cubit-bring-any-diy-project-to-life#/)
