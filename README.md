@@ -4,7 +4,7 @@
 ## Intro
 * This list is intended to show all the ideas for a smart home.
 * It mainly consists of electrical items.
-* It assumes that there is no house size limit and money constraints.
+* It assumes that there is no house size limit and no money constraints.
 * Some of the items might be a bit opinionated.
 * Reading through this list will sometimes make you feel like automating this or making it 'smart' is unnecessary, but this list is meant to showcase what can be done not what should be done.
 * The example links are meant to steer you in the right direction and not necessarily the technology I recommend.
