@@ -90,7 +90,7 @@
   * cleans itself [Spinx](https://www.kickstarter.com/projects/1209829383/spinx-worlds-first-toilet-cleaning-robot)
   * soft close
   * foot warmer
-  * Toilet Paper Holder [Toilet Paper Holder](https://www.kickstarter.com/projects/294027997/polarity-gear-toilet-paper-holder/?utm_source=dudeiwantthat.com&utm_medium=referral)
+  * Toilet Paper Holder and dispenser in wall [Toilet Paper Holder](https://www.kickstarter.com/projects/294027997/polarity-gear-toilet-paper-holder/?utm_source=dudeiwantthat.com&utm_medium=referral)
 * Bin that extract waste to the outside. Also detect item being thrown away to place on shopping list. Motorized lid open via gesture []()
 * Electric Toothbrush [Xiaomi Mijia Sonic Electric Toothbrush]()
 * Flosser [Philips AirFloss](https://www.philips.ie/c-m-pe/philips-sonicare-airfloss)
@@ -117,7 +117,7 @@
   * gloves []()
   * jacket []()
   * scarf [Xiaomi Mijia Graphene Heating Scarf]()
-  * shoe soles [MiMeng Heated Insoles](http://www.mimengsmart.com/)
+  * shoe insoles [MiMeng Heated Insoles](http://www.mimengsmart.com/)
 
 ## Living Room :couch_and_lamp:
 * Power strip with energy monitoring [TP-Link Kasa Power Strip](https://www.kasasmart.com/us/products/smart-plugs/kasa-smart-wi-fi-power-strip-hs300)
@@ -127,7 +127,7 @@
 * TV (borderless, wallpaper, rollable maybe) & remote []()
 * Receipt capture tracker [Fujitsu](https://www.scanners.ie/products/fujitsu-scansnap-s1300i)
 * Watch []()
-* Massage/recliner []()
+* Massager/recliner []()
 * Coffee table keeps cups warm or cold via dedicated patches []()
 * Auto light up stairs when talking []()
 * Sink garbage catcher []()
@@ -271,4 +271,5 @@
 * Car door auto open/unlock [Tesla Model 3](https://www.tesla.com/en_ie/model3)
 * Preheat when cold [Tesla Model 3](https://www.tesla.com/en_ie/model3)
 * Kar petrol tank reminder []()
+* Seat Massager []()
 * Dash cam [Garmin Dash Cam](https://buy.garmin.com/en-IE/GB/p/661787)
