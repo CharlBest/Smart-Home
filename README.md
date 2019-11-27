@@ -6,6 +6,7 @@
 * It assumes that there is no house size limit and money constraints.
 * Some of the items might be a bit opinionated.
 * Keep in mind I have no idea what I'm talking about.
+* If you have any other ideas [click here to create an item that I will add later](https://github.com/CharlBest/Smart-Home/issues/new)
 
 ## Considerations
 * Fade/flush into decor, unobtrusive, helpful, not noticeable, one with the architecture and design
@@ -55,6 +56,7 @@
 * Lock (close on voice command or occupancy) [August Smart Lock](https://august.com/)
 * Air Conditioner []()
 * Heater []()
+* Plants (self watering) []()
 
 ## Bathroom
 * Beard shaver []()
@@ -198,7 +200,7 @@
 * Robot window cleaner [WINBOT X](https://www.ecovacs.com/uk/winbot-window-cleaning-robot/WINBOT-X)
 * Handheld Vacuum Cleaner [Mi Handheld Vacuum Cleaner](https://www.mi.com/global/mi-handheld-vacuum-cleaner)
 * Washing machine []()
-* Dishwasher []()
+* Dishwasher (arm height to prevent strain) []()
 * Pet feeder [PetSafe Smart Feed](https://store.petsafe.net/smart-feed)
 * Dog GPS tracking collar []()
  
