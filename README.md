@@ -1,10 +1,10 @@
 # The Ultimate Smart Home :gem:
-### 180 ideas
+### +-200 ideas
 
 ## Intro
 * This list is intended to show all the ideas for a smart home.
 * It mainly consists of electrical items.
-* It assumes that there is no house size limit and no money constraints.
+* It assumes that there is no house size limit and money constraints.
 * Some of the items might be a bit opinionated.
 * Reading through this list will sometimes make you feel like automating this or making it 'smart' is unnecessary, but this list is meant to showcase what can be done not what should be done.
 * The example links are meant to steer you in the right direction and not necessarily the technology I recommend.
@@ -102,6 +102,7 @@
 * Blood pressure monitor [Withings BPM Core](https://www.withings.com/ie/en/bpm-core)
 * Bath fill to request height [Kohler Perfect Fill](https://www.us.kohler.com/us/smarthome/content/smarthome.htm#underscore)
 * Ear Otoscope Cleaner [Bebird](https://www.indiegogo.com/projects/bebird-world-s-safest-ear-otoscope-cleaner#/)
+* Hand Dryer [Dyson Airblade V](https://www.dyson.ie/commercial/hand-dryers/airblade-v-nickel.html)
 
 ## Bedroom :bed:
 * Bed [Sleep Number](https://www.sleepnumber.com/)
@@ -136,7 +137,7 @@
   * Control light, heat, pump, etc.
 * Bean bag [Moon Pod](https://www.moonpod.co/products/moon-pod)
 * Hidden rooms
-* Safe [iKeyp](https://www.ikeyp.com/)
+* Safe [iKeyp](https://www.ikeyp.com/) & [Vaultek](https://vaulteksafe.com/)
 
 ## Study :book:
 * Router [UI](https://www.ui.com/)
@@ -176,8 +177,8 @@
 * Cutting board scale that tracks food usage and suggestions [Drop](https://getdrop.com/)
 * Refrigerators with water and ice dispenser. Separate latch for liquids in door []()
 * Coffee machine []()
-* Digital measuring cup [Digital Measuring Cup](https://www.google.com/search?q=digital+measuring+cup)
-* Convection oven to heat food rather than unhealthy microwave []()
+* Digital measuring cup [Digital Measuring Cup](https://www.thegreenhead.com/2019/02/peters-pantry-smart-measuring-cup.php)
+* Convection & Steamer oven to heat food rather than unhealthy microwave [Oven](https://www.thegreenhead.com/2009/09/kalorik-smart-oven-microwave-steamer-convection.php)
 * Faucet [Kohler Sensate Kitchen Faucet](https://www.us.kohler.com/us/smarthome/content/smarthome.htm#sensate)
   * touch
   * detachable head
@@ -254,6 +255,7 @@
 * Inflatable Jacuzzi []()
 * BBQ [Fuego Professional](https://www.fuegoliving.com/products/fuego-f24c-carbon-propane)
 * Pool (Pump, water temp, pH, solar heating, automatic backwash, automatic refill)
+* Patio heaters [Heater](https://www.thegreenhead.com/2019/04/patio-umbrella-electric-heater.php)
 
 ## Garage :hammer:
 * Laser measuring tool [Cubit](https://www.indiegogo.com/projects/cubit-bring-any-diy-project-to-life#/)
@@ -266,6 +268,7 @@
   * Unicycle [Xiaomi Mijia A1 Self Balance Electric Unicycle](https://xiaomi-mi.com/electric-scooters/xiaomi-ninebot-one-a1-electric-unicycle-white/)
 * Electric lighter [Saberlight Flex](http://www.dudeiwantthat.com/household/tools/saberlight-flex-flexible-neck-plasma-beam-lighter.asp)
 * Vibrating Fitness Roller [Vyper 2.0](https://hyperice.com/vyper-2-0-black)
+* Jumping Rope [SmartRope PURE](http://tangramfactory.com/smartropepure/en/)
 
 ## Car :car:
 * Car door auto open/unlock [Tesla Model 3](https://www.tesla.com/en_ie/model3)
