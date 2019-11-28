@@ -9,7 +9,7 @@
 * Reading through this list will sometimes make you feel like automating this or making it 'smart' is unnecessary, but this list is meant to showcase what can be done not what should be done.
 * The example links are meant to steer you in the right direction and not necessarily the technology I recommend.
 * Keep in mind I have no idea what I'm talking about.
-* If you have any other ideas [click here to create an item that I will add later](https://github.com/CharlBest/Smart-Home/issues/new)
+* If you have any other ideas [click here to create an item that I will add later](https://github.com/CharlBest/Smart-Home/issues/new?assignees=&labels=&template=new-idea.md&title=)
 
 ## Considerations
 * Fade/flush into decor, unobtrusive, helpful, not noticeable, one with the architecture and design
