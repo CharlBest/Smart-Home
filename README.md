@@ -33,7 +33,7 @@
 * Air purifier (especially were pets sleep) [Mi Air Purifier 2H](https://www.mi.com/global/mi-air-purifier-2h)
 * Water Purifier [Mi Water Purifier](https://www.mi.com/global/water)
 * Humidifier, dehumidifier []()
-* Water Valve []()
+* Water Valve [Flo by Moen](https://www.moen.com/flo)
 * Hidden/secret compartments like vent or bottom of shelf [Smart Safes](https://www.indiegogo.com/projects/smart-safes-a-better-way-to-hide-your-valuables)
 * Sensors
   * Door/window [Shelly Door Window](https://shop.shelly.cloud/shelly-door-window-wifi-smart-home-automation)
@@ -62,6 +62,12 @@
 * Plants (self watering) []()
 * Smart Home software brain/hub [Home Assistant](https://www.home-assistant.io/)
 * Glass breakthrough detection []()
+* Garbage Can [Townew Trashcan](https://www.youtube.com/watch?v=6ikO8AJs0Pc)
+  * Garbage chute system [Garbage chute system](https://www.youtube.com/watch?v=TYk97vWyHqc)
+  * Container underneath the ground.
+  * Food cycler compost bin [Zera The FoodCycler](https://www.indiegogo.com/projects/zera-food-recycler#/)
+  * Also detect item being thrown away to place on shopping list [GeniCan](https://www.genican.com/)
+  * Motorized lid open via gesture
 
 ## Bathroom :bathtub:
 * Beard shaver []()
@@ -70,7 +76,7 @@
 * Scale (data displayed on mirror) [Withings Body+](https://www.withings.com/ie/en/body-plus)
 * Shower [Kohler DTV+ Showering System](https://www.us.kohler.com/us/smarthome/content/smarthome.htm#dtv) & [Livin](https://www.livinshower.com/)
   * voice enabled
-  * preheat
+  * preheat [U by Moen](https://www.moen.com/whats-new/innovation/u)
   * jets from the side
   * big top square rain head within the ceiling
   * speaker
@@ -91,7 +97,6 @@
   * soft close
   * foot warmer
   * Toilet Paper Holder and dispenser in wall [Toilet Paper Holder](https://www.kickstarter.com/projects/294027997/polarity-gear-toilet-paper-holder/?utm_source=dudeiwantthat.com&utm_medium=referral)
-* Bin that extract waste to the outside. Also detect item being thrown away to place on shopping list. Motorized lid open via gesture []()
 * Electric Toothbrush [Xiaomi Mijia Sonic Electric Toothbrush]()
 * Flosser [Philips AirFloss](https://www.philips.ie/c-m-pe/philips-sonicare-airfloss)
 * Urine analyzer in toilet [Xiaomi HiPee](https://china-gadgets.com/xiaomi-hipee-smart-health-tester/)
@@ -109,7 +114,7 @@
   * Heater and cooler
   * Sleep tracker
 * Curtain [Xiaomi Aqara Curtain Motor]()
-* Blind opener []()
+* Blind opener [Somfy](https://www.somfysystems.com/)
 * Clothes dryer closet [DriBUDDI]()
 * Bed cover maker []()
 * Laundry chute to washing room [Laundry chute system](https://www.youtube.com/watch?v=3AYoJiFMfAM)
@@ -183,9 +188,6 @@
   * touch
   * detachable head
   * voice command to pour exact amount.
-* Garbage Can [Townew Trashcan](https://www.youtube.com/watch?v=6ikO8AJs0Pc)
-  * Garbage chute system [Garbage chute system](https://www.youtube.com/watch?v=TYk97vWyHqc)
-  * Food cycler compost bin [Zera The FoodCycler](https://www.indiegogo.com/projects/zera-food-recycler#/)
 * Hide unused appliances via hidden actuator lifted compartments []()
 * Herb Garden (Aquaponics) []()
 * Extractor fan []()
@@ -200,6 +202,7 @@
 * Ketchup Dispenser [Classy Ketchup](http://www.dudeiwantthat.com/gear/food-drink/classy-ketchup.asp)
 * Silicon Broom []()
 * Floor vacuum sweep slot [vacpan](https://builtinvacuum.com/installguides/vacpan/)
+* Meat thermometer [Meater](https://meater.com/)
 
 ## Laundry Room :shirt:
 * Robot vacuum [Roomba series 9+](https://www.irobot.ie/roomba/s-series)
@@ -207,7 +210,7 @@
 * Robot window cleaner [WINBOT X](https://www.ecovacs.com/uk/winbot-window-cleaning-robot/WINBOT-X)
 * Handheld Vacuum Cleaner [Mi Handheld Vacuum Cleaner](https://www.mi.com/global/mi-handheld-vacuum-cleaner)
 * Washing machine []()
-* Dryer []()
+* Dryer [SmartDry](http://www.laserlightsolutions.com/dolaundrysmarter.html)
 * Dishwasher (arm height to prevent back strain) []()
 * Pet feeder [PetSafe Smart Feed](https://store.petsafe.net/smart-feed)
 * Dog GPS tracking collar []()
