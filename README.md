@@ -242,7 +242,6 @@
 * Gutter Covers [Video](https://www.youtube.com/watch?v=xn-L_O84DxI)
 * Gym room [Tonal](https://www.tonal.com/)
 * Screwless wooden deck []()
-* Pool cover auto roller []()
 * Pet door [PetSafe SmartDoor](https://store.intl.petsafe.net/en-ie/smartdoor-electronic-pet-door-large)
 * Underground garbage storage []()
 * Expandable porch canopy []()
@@ -257,7 +256,15 @@
 * Solar Powered Umbrella [Cumulus Parasol](http://studiotoer.com/cumulus)
 * Inflatable Jacuzzi []()
 * BBQ [Fuego Professional](https://www.fuegoliving.com/products/fuego-f24c-carbon-propane)
-* Pool (Pump, water temp, pH, solar heating, automatic backwash, automatic refill)
+* Pool 
+  * Pump
+  * Water temp
+  * pH
+  * Solar heating
+  * Automatic backwash
+  * Automatic refill
+  * Automatic cover roller
+  * Drowning detection system
 * Patio heaters [Heater](https://www.thegreenhead.com/2019/04/patio-umbrella-electric-heater.php)
 
 ## Garage :hammer:
