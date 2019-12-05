@@ -29,7 +29,7 @@
 * Speakers
 * Microphones []()
 * Cameras [Arlo](https://www.arlo.com/)
-* Wireless charging pad []()
+* Wireless charging pad [Video](https://www.youtube.com/watch?v=-adsUKQVaUg)
 * Insect repellent ultrasonic device []()
 * Air purifier (especially were pets sleep) [Mi Air Purifier 2H](https://www.mi.com/global/mi-air-purifier-2h)
 * Water Purifier [Mi Water Purifier](https://www.mi.com/global/water)
@@ -87,10 +87,11 @@
   * drain hair catcher [Tub Shroom](https://www.tubshroom.com/)
   * Automatic cleaner [ASC](https://youtu.be/eH6dm17NlDc)
 * Mirror [Kohler Verdera Voice Lighted Mirror](https://www.us.kohler.com/us/smarthome/content/smarthome.htm#verdera) 
-  * Info
+  * Info [Video](https://www.youtube.com/watch?v=vAvKLd3cfig)
   * Facial analysis
   * Heat up to prevent fogging
   * Light [Options](https://theluxauthority.com/smart-mirrors/)
+  * Glass [2 way glass](https://www.twowaymirrors.com/smart-mirror/)
 * Toilet seat [Kohler Numi 2.0 Intelligent Toilet](https://www.us.kohler.com/us/smarthome/content/smarthome.htm#numi)
   * heats up (maybe when door opens)
   * automatically opens
@@ -187,6 +188,8 @@
   * touch
   * detachable head
   * voice command to pour exact amount.
+  * boiling water [Video](https://www.youtube.com/watch?v=VP0AJQwOEOY)
+  * dispense milk, juice or any fluids
 * Hide unused appliances via hidden actuator lifted compartments []()
 * Herb Garden (Aquaponics) []()
 * Extractor fan []()
@@ -202,7 +205,7 @@
 * Silicon Broom []()
 * Floor vacuum sweep slot [vacpan](https://builtinvacuum.com/installguides/vacpan/)
 * Meat thermometer [Meater](https://meater.com/)
-* Sink food waste disposers []()
+* Sink food waste disposers [Video](https://www.youtube.com/watch?v=fJ-xdrWNM-w)
 
 ## Laundry Room :shirt:
 * Robot vacuum [Roomba series 9+](https://www.irobot.ie/roomba/s-series)
