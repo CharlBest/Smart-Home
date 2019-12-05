@@ -16,6 +16,7 @@
 * Run locally not in the cloud. You own the data especially with video and audio
 * All actions in UI/app should also be accessible via voice and/or traditional way [Snips](https://docs.snips.ai/articles/platform/satellites)
 * Everything should be cordless and wireless charge via [Qi Wireless Charging Receiver Patches]().
+* All wires should be hidden from sight and never visible.
 * All consumables should be tracked like waste, electricity and water consumption conversely also track all generation like solar energy, wind energy and rainfall capture
 * Paperless
 * Rethink everything. Is it necessary?
@@ -98,7 +99,6 @@
   * foot warmer
   * Toilet Paper Holder and dispenser in wall [Toilet Paper Holder](https://www.kickstarter.com/projects/294027997/polarity-gear-toilet-paper-holder/?utm_source=dudeiwantthat.com&utm_medium=referral)
 * Electric Toothbrush [Xiaomi Mijia Sonic Electric Toothbrush]()
-* Flosser [Philips AirFloss](https://www.philips.ie/c-m-pe/philips-sonicare-airfloss)
 * Urine analyzer in toilet [Xiaomi HiPee](https://china-gadgets.com/xiaomi-hipee-smart-health-tester/)
 * Soap & shampoo dispenser [Xiaomi Mijia Automatic Soap Dispenser](https://www.gearbest.com/robot-vacuum-accessories/pp_009964602513.html?wid=1433363&lkid=17536087)
 * Adjust sink height based on person height []()
@@ -131,13 +131,10 @@
 * Surround Sound []()
 * Chromecast []()
 * TV (borderless, wallpaper, rollable maybe) & remote []()
-* Receipt capture tracker [Fujitsu](https://www.scanners.ie/products/fujitsu-scansnap-s1300i)
-* Watch []()
+* Wall Watch []()
 * Massager/recliner []()
 * Coffee table keeps cups warm or cold via dedicated patches []()
 * Auto light up stairs when talking []()
-* Sink garbage catcher []()
-* Standing desk []()
 * Fish tank feature []()
   * Control light, heat, pump, etc.
 * Bean bag [Moon Pod](https://www.moonpod.co/products/moon-pod)
@@ -146,6 +143,7 @@
 
 ## Study :book:
 * Router [UI](https://www.ui.com/)
+* Standing desk []()
 * 3D Printer [Creality CR-10S Pro](https://www.creality3d.shop/collections/cr-series/products/creality3d-cr-10s-pro-300-300-400-3d-printer)
 * Drone [DJI Mavic Air](https://www.dji.com/ie/mavic-air)
   * use drone to fly indoor to scatter dust and then suck it up [Aire](https://www.kickstarter.com/projects/1042731515/aire-a-self-flying-robotic-assistant-for-the-home)
@@ -160,10 +158,11 @@
 * Earbuds [Google Pixel Buds](https://store.google.com/product/pixel_buds)
 * Portable air quality monitor [Flow](https://plumelabs.com/en/flow-2/store/)
 * Brain interface to control some things [Muse](https://choosemuse.com/)
-* Watch [Fossil Gen 5](https://www.fossil.com/us/en/wearable-technology/smartwatches/gen5-learn-more.html)
+* Arm Watch [Fossil Gen 5](https://www.fossil.com/us/en/wearable-technology/smartwatches/gen5-learn-more.html)
 * VR headset [Oculus Quest](https://www.oculus.com/quest/)
 * Glasses [North](https://www.bynorth.com/)
 * Laptops [Razer Blade](https://www.razer.com/eu-en/gaming-laptops/razer-blade)
+* Receipt capture tracker [Fujitsu](https://www.scanners.ie/products/fujitsu-scansnap-s1300i)
 
 ## Kitchen :apple:
 * Thermostat [Hive](https://www.hivehome.com/ie/products/hive-active-hubless-heating)
@@ -192,7 +191,7 @@
 * Herb Garden (Aquaponics) []()
 * Extractor fan []()
 * Touch screen projector for recipe suggestions and instructions []()
-* Container in fridge at vacuums air [Vacuvita](https://www.vacuvita.com/)
+* Container in fridge that vacuums air [Vacuvita](https://www.vacuvita.com/)
 * Automatic fruit and vegetable peeler [Peeler](https://www.google.com/search?q=Automatic+fruit+and+vegetable+peeler)
 * Automatic orange squeezer [Juicer](https://www.youtube.com/watch?v=UVxrShs5ZuY)
 * Oven arm protect heat burn []()
@@ -203,6 +202,7 @@
 * Silicon Broom []()
 * Floor vacuum sweep slot [vacpan](https://builtinvacuum.com/installguides/vacpan/)
 * Meat thermometer [Meater](https://meater.com/)
+* Sink food waste disposers []()
 
 ## Laundry Room :shirt:
 * Robot vacuum [Roomba series 9+](https://www.irobot.ie/roomba/s-series)
