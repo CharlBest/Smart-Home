@@ -37,6 +37,7 @@
 * Water Valve [Flo by Moen](https://www.moen.com/flo)
 * Hidden/secret compartments like vent or bottom of shelf [Smart Safes](https://www.indiegogo.com/projects/smart-safes-a-better-way-to-hide-your-valuables)
 * Sensors
+  * Microlocations, room tracking, user identification, infrared signature, thermal imaging camera sensor
   * Door/window [Shelly Door Window](https://shop.shelly.cloud/shelly-door-window-wifi-smart-home-automation)
   * Motion []()
   * Light/lux []()
@@ -56,7 +57,7 @@
 * Windows can become screen and show anything like a forest or space []()
 * Plant soil monitor [Plant Link](https://www.kickstarter.com/projects/1387729422/plant-link-listen-to-your-plants) & [Xiaomi Plant Monitor]()
 * Vents [KEEN home Smart Vent](https://keenhome.io/products/smart-vent)
-* Modern flushed trim finishes [Modern Trim](https://www.youtube.com/watch?v=Xtev-uJsAWM)
+* Modern flushed trim finishes on skirting board with LED [Modern Trim](https://www.youtube.com/watch?v=Xtev-uJsAWM)
 * Lock (close on voice command or occupancy) [August Smart Lock](https://august.com/)
 * Air Conditioner []()
 * Heater []()
@@ -99,6 +100,8 @@
   * soft close
   * foot warmer
   * Toilet Paper Holder and dispenser in wall [Toilet Paper Holder](https://www.kickstarter.com/projects/294027997/polarity-gear-toilet-paper-holder/?utm_source=dudeiwantthat.com&utm_medium=referral)
+  * Track user sitting weight for identification
+  * Mic and odor sensor to check if number 1 vs 2
 * Electric Toothbrush [Xiaomi Mijia Sonic Electric Toothbrush]()
 * Urine analyzer in toilet [Xiaomi HiPee](https://china-gadgets.com/xiaomi-hipee-smart-health-tester/)
 * Soap & shampoo dispenser [Xiaomi Mijia Automatic Soap Dispenser](https://www.gearbest.com/robot-vacuum-accessories/pp_009964602513.html?wid=1433363&lkid=17536087)
@@ -118,7 +121,7 @@
 * Blind opener [Somfy](https://www.somfysystems.com/)
 * Clothes dryer closet [DriBUDDI]()
 * Bed cover maker []()
-* Laundry chute to washing room [Laundry chute system](https://www.youtube.com/watch?v=3AYoJiFMfAM)
+* Laundry chute to washing room [Laundry Jet](https://www.laundry-jet.eu/)
 * Medication Tracker [PillDrill](https://www.pilldrill.com/)
 * Heated 
   * gloves []()
@@ -141,6 +144,7 @@
 * Bean bag [Moon Pod](https://www.moonpod.co/products/moon-pod)
 * Hidden rooms
 * Safe [iKeyp](https://www.ikeyp.com/) & [Vaultek](https://vaulteksafe.com/)
+* Electric fireplace [Video](https://www.youtube.com/watch?v=Xr4Bl3SH2Ng)
 
 ## Study :book:
 * Router [UI](https://www.ui.com/)
@@ -189,11 +193,11 @@
   * detachable head
   * voice command to pour exact amount.
   * boiling water [Video](https://www.youtube.com/watch?v=VP0AJQwOEOY)
-  * dispense milk, juice or any fluids
+  * dispense milk, juice or any fluids (cooler as well)
 * Hide unused appliances via hidden actuator lifted compartments []()
 * Herb Garden (Aquaponics) []()
 * Extractor fan []()
-* Touch screen projector for recipe suggestions and instructions []()
+* Touch screen projector for recipe suggestions and instructions via Yummly []()
 * Container in fridge that vacuums air [Vacuvita](https://www.vacuvita.com/)
 * Automatic fruit and vegetable peeler [Peeler](https://www.google.com/search?q=Automatic+fruit+and+vegetable+peeler)
 * Automatic orange squeezer [Juicer](https://www.youtube.com/watch?v=UVxrShs5ZuY)
@@ -206,6 +210,43 @@
 * Floor vacuum sweep slot [vacpan](https://builtinvacuum.com/installguides/vacpan/)
 * Meat thermometer [Meater](https://meater.com/)
 * Sink food waste disposers [Video](https://www.youtube.com/watch?v=fJ-xdrWNM-w)
+* Countertop
+  * Flat top
+  * Water drains mainly to the back but also all around the edge
+  * Food waste disposers in gutter at the back
+  * Blended food waste goes into composter
+  * Entire top is on a scale
+  * Built in/integrated induction hob/cooktop underneath
+  * Quick knife steam clean [Mliter](https://www.indiegogo.com/projects/mliter-s20-multi-functional-knife-care-system)
+  * Hand wash and sanitiser
+  * Store cooking utensils separate from eating utensils
+  * Dry hands very quickly
+  * Very easy access to garbage bin. No lid.
+  * Easy hob temp control
+  * Easily accessible spice rack, salt, pepper, oil. Ask for which one you want.
+  * Plate warmer
+  * Popup extractor fan
+  * Hide appliances like coffee machine, toaster and blender in bottom of base
+  * Integrated eye level dishwasher. Maybe glass, rack, drawer
+  * Vertical pot and pan storage drawer
+  * Projector screen display for recipes, youtube, notes, etc.
+  * Integrated oven with convection and steam options
+  * Integrated fruit and vegetable peeler
+  * Integrated chopper and grater
+  * Easy colander for top
+  * Within the pot there should be stir pedals
+  * Above hanging herb & vegetable garden water fed by base
+  * Water filter
+  * Robotic arm for mandan task for now
+  * Drinking glass and cup suction arm to displace where needed
+  * Camera above on hanging garden to check down on counter to check remotely.
+  * Universal faucet with detachable head. Dispenses:
+    * Chilled water (10 °C)
+    * Cold water (20 °C)
+    * Warm water (50 °C)
+    * Boiling water (95 °C)
+    * Juice x2
+    * Milk
 
 ## Laundry Room :shirt:
 * Robot vacuum [Roomba series 9+](https://www.irobot.ie/roomba/s-series)
@@ -238,6 +279,9 @@
   * Wind [Netatmo Anemometer](https://www.netatmo.com/en-eu/weather/weatherstation/accessories#windgauge)
 * Path way light up while walking []()
 * Vegetable garden []()
+  * Frozen vegetables, corn, patatos, sweet patato
+  * Chops, mince, prawns, chicken fillets, samon, tuna
+  * Rice, cous cous, pasta
 * Subterranean subwoofer [MartinLogan Outdoor Speakers](https://www.martinlogan.com/en/category/outdoor)
 * Dog poop detector via image recognition []()
 * Automatic fetch player for dog []()
