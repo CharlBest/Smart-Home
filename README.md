@@ -25,7 +25,7 @@
 * Light switch and dimmable [Shelly Dimmer](https://shop.shelly.cloud/shelly-dimmer-wifi-smart-home-automation)
 * Colored bulbs & strips [LIFX](https://www.lifx.com/)
 * Hidden plugs [Shelly 2.5](https://shop.shelly.cloud/shelly-2.5-wifi-smart-home-automation)
-* Heated floors []()
+* Heated floors with individually controllable section for energy saving []()
 * Speakers
 * Microphones []()
 * Cameras [Arlo](https://www.arlo.com/)
