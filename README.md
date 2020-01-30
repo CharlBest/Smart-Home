@@ -33,7 +33,7 @@
 * Insect repellent ultrasonic device []()
 * Air purifier (especially were pets sleep) [Mi Air Purifier 2H](https://www.mi.com/global/mi-air-purifier-2h)
 * Water Purifier [Mi Water Purifier](https://www.mi.com/global/water)
-* Humidifier, dehumidifier []()
+* Humidifier, dehumidifier [Hydraloop](https://www.hydraloop.com/)
 * Water Valve [Flo by Moen](https://www.moen.com/flo)
 * Hidden/secret compartments like vent or bottom of shelf [Smart Safes](https://www.indiegogo.com/projects/smart-safes-a-better-way-to-hide-your-valuables)
 * Sensors
@@ -52,7 +52,7 @@
   * auto close []()
   * object detection []()
 * Integrated auto reel extension power cord [Rambler Socket: Built-in Extension Cord](https://www.ippinka.com/blog/rambler-socket-built-in-extension-cord/)
-* Touch screen projector [Sony Xperia Touch](https://www.sonymobile.com/global-en/products/smart-products/xperia-touch) & [Puppy Cube](http://www.puppyrobot.com/en/puppycube)
+* Touch screen projector [Sony Xperia Touch](https://www.sonymobile.com/global-en/products/smart-products/xperia-touch) & [Puppy Cube](http://www.puppyrobot.com/en/puppycube) & [Hachi Infinite] (http://www.hachismart.com/en/hachiinfinite)
 * Auto detect user in the room via phone, RFID chip, facial recognition, Wi-Fi waves []()
 * Windows can become screen and show anything like a forest or space []()
 * Plant soil monitor [Plant Link](https://www.kickstarter.com/projects/1387729422/plant-link-listen-to-your-plants) & [Xiaomi Plant Monitor]()
@@ -114,9 +114,11 @@
 * Hand Dryer [Dyson Airblade V](https://www.dyson.ie/commercial/hand-dryers/airblade-v-nickel.html)
 
 ## Bedroom :bed:
-* Bed [Sleep Number](https://www.sleepnumber.com/)
+* Bed [Sleep Number](https://www.sleepnumber.com/) & [The Pod](https://www.eightsleep.com/eight-pod-sleep-cool/)
   * Heater and cooler
   * Sleep tracker
+* Linen
+  * [Primary Goods](https://primarygoods.com/collections/linen#_)
 * Curtain [Xiaomi Aqara Curtain Motor]()
 * Blind opener [Somfy](https://www.somfysystems.com/)
 * Clothes dryer closet [DriBUDDI]()
@@ -182,8 +184,9 @@
   * fill given quantity [PourMi](https://www.kickstarter.com/projects/pourmi/pourmi)
   * rod in glass to hear in induction hob) [MIITO](https://www.kickstarter.com/projects/747044530/miito-the-sustainable-alternative-to-the-electric)
 * Blender []()
+* Processor [Julia](https://www.cookingpal.com/)
 * Toaster []()
-* Cutting board scale that tracks food usage and suggestions [Drop](https://getdrop.com/)
+* Cutting board scale that tracks food usage and suggestions [Drop](https://getdrop.com/) & [ChopBox](https://www.kickstarter.com/projects/theyescompany/chopbox-a-new-way-to-cook)
 * Refrigerators with water and ice dispenser. Separate latch for liquids in door []()
 * Coffee machine []()
 * Digital measuring cup [Digital Measuring Cup](https://www.thegreenhead.com/2019/02/peters-pantry-smart-measuring-cup.php)
@@ -332,4 +335,4 @@
 * Preheat when cold [Tesla Model 3](https://www.tesla.com/en_ie/model3)
 * Kar petrol tank reminder []()
 * Seat Massager []()
-* Dash cam [Garmin Dash Cam](https://buy.garmin.com/en-IE/GB/p/661787)
+* Dash cam [Garmin Dash Cam](https://buy.garmin.com/en-IE/GB/p/661787) & [Iottie Eva connect](https://www.iottie.com/Product/Detail/5043/Easy-One-Touch-4-Dash-_-Windshield-Mount)
